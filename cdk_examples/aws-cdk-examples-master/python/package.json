@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "aws-cdk": "^2.45.0"
+  },
+  "dependencies": {
+    "0g": "^0.0.9"
+  }
+}
