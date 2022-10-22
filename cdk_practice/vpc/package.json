@@ -1,0 +1,14 @@
+{
+  "name": "vpc",
+  "version": "1.0.0",
+  "description": "https://bobbyhadz.com/blog/aws-cdk-vpc-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-cdk/aws-lambda": "^1.177.0"
+  }
+}
